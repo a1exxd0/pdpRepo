@@ -3,6 +3,7 @@
 #include<iostream>
 using namespace std;
 
+/*Easy difficulty but went above and beyond and used multithreading*/
 
 vector<int> inc(const vector<vector<int>> trust, const int n, const int z){
     int tlen = trust.size();
